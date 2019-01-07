@@ -1,4 +1,4 @@
-package alexis.breuse.exceptions;
+package alexis.breuse.SimpleFactory.exceptions;
 
 public class NoCarBrandFoundException extends Throwable {
 

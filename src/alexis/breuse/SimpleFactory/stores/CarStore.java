@@ -1,9 +1,9 @@
-package alexis.breuse.stores;
+package alexis.breuse.SimpleFactory.stores;
 
 import alexis.breuse.cars.Car;
 import alexis.breuse.cars.details.Brand;
-import alexis.breuse.exceptions.NoCarBrandFoundException;
-import alexis.breuse.factories.SimpleCarFactory;
+import alexis.breuse.SimpleFactory.exceptions.NoCarBrandFoundException;
+import alexis.breuse.SimpleFactory.factories.SimpleCarFactory;
 
 public class CarStore {
 
