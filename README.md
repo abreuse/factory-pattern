@@ -1,6 +1,6 @@
 ## Factory pattern
 
-Simple examples of the Factory pattern (adn Simple Factory).
+Simple examples of the Factory pattern (and Simple Factory).
 - Simple factory : create cars according to brand thanks to the `SimpleCarFactory`
 - Factory pattern : create sports cars according to the chosen factory `SeatSportCarStore` or `SeatSportCarStore`
 
